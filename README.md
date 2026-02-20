@@ -1,5 +1,4 @@
-# Movie-Recommendation-System
-# 🎬 AI/ML MINI PROJECT – Movie Recommender System (Flask + KNN)
+# Movie Recommender System (Flask + KNN)
 
 ## 📌 Project Overview
 
@@ -105,12 +104,10 @@ You will see the movie recommender homepage.
 ## 🎯 Features
 
 ✔ Movie search-based recommendation
-✔ Indian movies dataset (Bollywood + South Indian)
 ✔ ML-based similarity scoring
 ✔ Simple HTML interface
 ✔ Easily extendable
 ✔ Graph support
-✔ Ready for mini-project submission
 
 ---
 
