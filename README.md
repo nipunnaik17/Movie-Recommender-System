@@ -126,12 +126,10 @@ Example:
 
 ```
 movieId,title,genres
-1,3 Idiots,Comedy|Drama
-2,Dangal,Action|Biography|Drama
-3,PK,Comedy|Fantasy|Drama
+1,Harry Potter,Magic|Drama
 ```
 
-Dataset size: **1000 movies** (as requested)
+Dataset size: **1000 movies** 
 
 ---
 
